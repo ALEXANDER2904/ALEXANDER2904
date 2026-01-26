@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" width="28"/>
   Alexander Martinez
 </h1>
