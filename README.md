@@ -1,5 +1,5 @@
 <h1 align="left">
-  Alexander Martinez 🌞
+  Alexander Martinez 
 </h1>
 
 ### 🧩 FullStack & Mobile Developer
