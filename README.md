@@ -39,11 +39,12 @@ Me gusta construir aplicaciones bien pensadas, fáciles de mantener y con impact
 Si quieres hablar sobre trabajo, proyectos o colaboración profesional, contáctame por aquí:
 
 <p align="left">
+   <a href="mailto:alexjo2903@gmail.com">
+    <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" alt="Gmail Logo" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/alexander-martinez-39a620288/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="padding-right:12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"" />
   </a>
-  <a href="mailto:alexjo2903@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
-  </a>
+ 
 </p>
 
