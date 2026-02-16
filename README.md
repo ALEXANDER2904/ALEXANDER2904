@@ -2,13 +2,13 @@
   Alexander Martinez 
 </h1>
 
-### 🧩 FullStack & Mobile Developer
+### FullStack & Mobile Developer
 
 Me gusta construir aplicaciones bien pensadas, fáciles de mantener y con impacto real en el producto. Trabajo cómodo de forma remota y en equipo, con autonomía y responsabilidad en cada entrega.
 
 ---
 
-### 🧰 Tecnologías & Herramientas
+### Tecnologías & Herramientas
 
 <!-- Frontend / Mobile -->
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
